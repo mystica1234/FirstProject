@@ -57,7 +57,7 @@
               alt="Luca"
               class="img-dash"
             />
-            <div class="mt-3">Luca</div>
+            <div class="mt-3">cinderella</div>
           </div>
         </div>
       </div>
